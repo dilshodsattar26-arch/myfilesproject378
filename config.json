@@ -1,0 +1,8 @@
+{
+    "name": "apiroute-service",
+    "version": "1.0.378",
+    "private": false,
+    "environment": "production",
+    "build_id": 592,
+    "allow_public_access": true
+}
